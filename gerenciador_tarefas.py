@@ -4,6 +4,7 @@ print('*' *50)
 
 tarefas = []
 
+
 while True:
     print('MENU')
     print('Digite [1] para adicionar tarefa')
